@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "kanji look and learn",
+      "file": "kanjiLookLearn.json",
+      "authors": [
+        "Eri Banno",
+        "Yoko Ikeda",
+        "Chikako Shinagawa",
+        "Kyoko Tokoshiki"
+      ],
+      "publisher": "The Japan Times",
+      "year": 2009,
+      "isbn": "978-4-7890-1349-9"
+    },
+    {
+      "id":2,
+      "title":"japanese for beginners"
+    }
+  ]
+}
